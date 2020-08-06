@@ -1,0 +1,62 @@
+{
+    "result": "success",
+    "data": [
+        {
+            "barCode": "4057283468320",
+            "materialCode": "BW0620",
+            "size": "12-",
+            "dpPrice": "200.00",
+            "totalMoney": "",
+            "productTypeValue": "鞋子",
+            "projectValue": "上装",
+            "productSeriesValue": "滑雪镜系列",
+            "productPatternKey": "Z854",
+            "brandName": "NIKE(耐克)",
+            "apply_account": "",
+            "unallocatedQty": "0"
+        },
+        {
+            "barCode": "4057283467422",
+            "materialCode": "BW0620",
+            "size": "4",
+            "dpPrice": "300.00",
+            "totalMoney": "",
+            "productTypeValue": "鞋子",
+            "projectValue": "上装",
+            "productSeriesValue": "滑雪镜系列",
+            "productPatternKey": "Z854",
+            "brandName": "NIKE(耐克)",
+            "apply_account": "",
+            "unallocatedQty": "147"
+        },
+        {
+            "barCode": "4057283467385",
+            "materialCode": "BW0620",
+            "size": "4-",
+            "dpPrice": "300.00",
+            "totalMoney": "",
+            "productTypeValue": "鞋子",
+            "projectValue": "上装",
+            "productSeriesValue": "滑雪镜系列",
+            "productPatternKey": "Z854",
+            "brandName": "NIKE(耐克)",
+            "apply_account": "",
+            "unallocatedQty": "10"
+        },
+        {
+            "barCode": "4057283467354",
+            "materialCode": "BW0620",
+            "size": "5-",
+            "dpPrice": "400.00",
+            "totalMoney": "",
+            "productTypeValue": "鞋子",
+            "projectValue": "上装",
+            "productSeriesValue": "滑雪镜系列",
+            "productPatternKey": "Z854",
+            "brandName": "NIKE(耐克)",
+            "apply_account": "",
+            "unallocatedQty": "51"
+        }
+    ],
+    "msg": ""
+}

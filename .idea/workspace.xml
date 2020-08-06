@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98d157dd-ea3b-44f3-81bf-3148f37001da" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/submitApproval.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smp-b2b-cms/internal/src/api/API.js" beforeDir="false" afterPath="$PROJECT_DIR$/smp-b2b-cms/internal/src/api/API.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smp-b2b-cms/internal/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/smp-b2b-cms/internal/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/Detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/Detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/EditOrder.vue" beforeDir="false" afterPath="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/EditOrder.vue" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/smp-b2b-cms/internal/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/smp-b2b-cms/internal/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smp-b2b-cms/internal/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/smp-b2b-cms/internal/config/index.js" afterDir="false" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+    </list>
+    <ignored path="$PROJECT_DIR$/smp-b2b-cms/external/node_modules/" />
+    <ignored path="$PROJECT_DIR$/smp-b2b-cms/internal/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/API.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="752">
+              <caret line="76" column="69" selection-start-line="76" selection-start-column="69" selection-end-line="76" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/EditOrder.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="114" column="34" selection-start-line="114" selection-start-column="34" selection-end-line="114" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#el-table#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-table-column#17;n#el-table#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/dev.env.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/components/PageCommon/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="118" column="20" lean-forward="true" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
+=======
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/goods.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/request.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/node_modules/element-ui/packages/infinite-scroll/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="162" column="61" lean-forward="true" selection-start-line="162" selection-start-column="15" selection-end-line="162" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/node_modules/eslint-friendly-formatter/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/submitApproval.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+=======
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/prod.env.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/sit.env.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/i18n.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/openWindow.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>handleCreate</find>
+      <find>updateData</find>
+      <find>list</find>
+      <find>fetchList</find>
+      <find>base</find>
+      <find>API</find>
+      <find>dealersSearchBarOptions</find>
+      <find>fileLi</find>
+      <find>ExternalUser</find>
+      <find>span</find>
+      <find>dialogFormVisible</find>
+      <find>formData</find>
+      <find>dataForm</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/components/Page-common.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/axios/index.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/ListDetail.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/App.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/creditDetail.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/UserMessage/UserMessage.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/DeliveryList/Detail.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/login/index.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/main.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/user/internal/list.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/user/external/list.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/trade/components/page-common.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/components/page-common.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/trade/components/uploadExcel.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/components/uploadExcel.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/components/search-bar.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/trade/list.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/test.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/components/search-bar.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/HistoryDiscount.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/scm/add.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/scm/detail.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/scm/list.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/stock/search.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/returnList/List.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/ReceiveList/ReceiveList.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/DeliveryList/DeliveryList.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/DeliveryList/DeliveryDetail.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/ReceiveList/ReceiveDetail.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/components/SearchBar/index.vue" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/orderList/List.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/config/index.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/config/dev.env.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/submitApproval.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/router/index.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/Detail.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/api/API.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/EditOrder.vue" />
+=======
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/Detail.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/config/dev.env.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/api/API.js" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/orderList/List.vue" />
+        <option value="$PROJECT_DIR$/smp-b2b-cms/internal/config/index.js" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+<<<<<<< HEAD
+    <option name="x" value="16" />
+    <option name="y" value="-938" />
+    <option name="width" value="1932" />
+    <option name="height" value="1047" />
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="PageCommon" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="tradingPlatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smp-b2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smp-b2b" type="462c0819:PsiDirectoryNode" />
+              <item name="smp-b2b-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="tradingPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="ListDetail" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/smp-b2b-cms" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86135\baowei\smp-b2b\smp-b2b-cms\internal\src\views\tradingPlatform\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86135\baowei\smp-b2b\smp-b2b-cms\internal\src\components\SearchBar" />
+      <recent name="C:\Users\86135\baowei\smp-b2b\smp-b2b-cms\internal\src\components\PageCommon" />
+      <recent name="C:\Users\86135\baowei\smp-b2b\smp-b2b-cms\internal\src\views\ODS\components" />
+      <recent name="C:\Users\86135\baowei\smp-b2b\smp-b2b-cms\internal\src\views\tradingPlatform\components" />
+      <recent name="C:\Users\86135\baowei\smp-b2b\smp-b2b-cms\internal\src\views\ODS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98d157dd-ea3b-44f3-81bf-3148f37001da" name="Default Changelist" comment="" />
+      <created>1564630179671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564630179671</updated>
+      <workItem from="1564630182575" duration="17729000" />
+      <workItem from="1564707177149" duration="12910000" />
+      <workItem from="1564967178559" duration="1964000" />
+      <workItem from="1565053892706" duration="32067000" />
+      <workItem from="1565140166497" duration="16588000" />
+      <workItem from="1565170607310" duration="1479000" />
+<<<<<<< HEAD
+      <workItem from="1565226112724" duration="24990000" />
+      <workItem from="1565312232929" duration="697000" />
+      <workItem from="1565313562500" duration="50000" />
+      <workItem from="1565313636133" duration="1369000" />
+      <workItem from="1565315024139" duration="20605000" />
+=======
+      <workItem from="1565226112724" duration="24749000" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="158984000" />
+=======
+    <option name="totallyTimeSpent" value="136022000" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-1088" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13066386" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3394794" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13066386" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/test.vue" />
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/components/page-common.vue" />
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/components/search-bar.vue" />
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/goods/list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="301" column="7" lean-forward="true" selection-start-line="301" selection-start-column="7" selection-end-line="301" selection-end-column="7" />
+          <folding>
+            <element signature="e#12307#12340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/creditDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/HistoryDiscount.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="180" column="13" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/scm/detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="264" column="13" selection-start-line="264" selection-start-column="13" selection-end-line="264" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/scm/list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="367" column="13" lean-forward="true" selection-start-line="367" selection-start-column="13" selection-end-line="367" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/stock/search.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="318" column="13" selection-start-line="318" selection-start-column="13" selection-end-line="318" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/statement/jit/list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/scm/add.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="252" column="12" lean-forward="true" selection-start-line="252" selection-start-column="12" selection-end-line="252" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/UserMessage/UserMessage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="175" column="1" lean-forward="true" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/returnList/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/ReceiveList/ReceiveList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="222" column="18" selection-start-line="222" selection-start-column="18" selection-end-line="222" selection-end-column="18" />
+          <folding>
+            <element signature="e#2478#2524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/ReceiveList/ReceiveDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="98" column="15" selection-start-line="98" selection-start-column="15" selection-end-line="98" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#el-table#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/components/SearchBar/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3330">
+          <caret line="166" column="24" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="24" />
+          <folding>
+            <element signature="n#div#0;n#el-row#0;n#el-col#0;n#el-row#0;n#el-form#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#0;n#el-col#2;n#div#0;n#el-row#0;n#el-col#0;n#el-row#0;n#el-form#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/external/src/api/trade.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="99" column="37" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/trade/list.vue">
+=======
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/trade/edit.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/trade/components/tradeDetail.vue">
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="96" column="16" lean-forward="true" selection-start-line="70" selection-start-column="3" selection-end-line="96" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#5967#6008#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/node_modules/vue/types/vue.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/DeliveryList/DeliveryDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="98" column="4" lean-forward="true" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/scrollTo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/DeliveryList/DeliveryList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="80" column="75" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="75" />
+          <folding>
+            <element signature="n#style#0;n#el-table#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/errorLog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/main.js">
+=======
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/components/search-bar.vue">
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#177#222#0" expanded="true" />
+            <element signature="e#267#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/trade.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/user.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/role.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/node_modules/eslint-friendly-formatter/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/goods.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/i18n.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/openWindow.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3240">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/JY554231/FileStorage/File/2019-08/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="33" lean-forward="true" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/external/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/external/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="31" column="8" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/sit.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/orderList/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="140" column="10" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
+          <folding>
+            <element signature="n#el-form#0;n#el-dialog#0;n#el-container#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/Detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="685" column="10" lean-forward="true" selection-start-line="680" selection-start-column="7" selection-end-line="685" selection-end-column="10" />
+          <folding>
+            <element signature="n#el-tab-pane#0;n#el-tabs#0;n#el-col#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#el-table#0;n#el-col#0;n#el-tab-pane#0;n#el-tabs#0;n#el-col#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-col#0;n#el-tab-pane#0;n#el-tabs#0;n#el-col#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-tab-pane#1;n#el-tabs#0;n#el-col#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#1;n#el-tabs#0;n#el-col#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-tab-pane#2;n#el-tabs#0;n#el-col#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#el-table#0;n#el-tab-pane#2;n#el-tabs#0;n#el-col#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#page-common#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#el-dialog#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#el-dialog#2;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#el-dialog#3;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#el-dialog#5;n#el-container#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="162" column="61" lean-forward="true" selection-start-line="162" selection-start-column="15" selection-end-line="162" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/node_modules/element-ui/packages/infinite-scroll/src/main.js">
+=======
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/node_modules/vue/types/vue.d.ts">
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/components/PageCommon/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="118" column="20" lean-forward="true" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/API.js">
+=======
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/DeliveryList/DeliveryDetail.vue">
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="76" column="69" selection-start-line="76" selection-start-column="69" selection-end-line="76" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/submitApproval.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/EditOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="114" column="34" selection-start-line="114" selection-start-column="34" selection-end-line="114" selection-end-column="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/ListDetail/Detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="214" column="28" lean-forward="true" selection-start-line="214" selection-start-column="28" selection-end-line="214" selection-end-column="28" />
+>>>>>>> 07c5077c823ebbeba5f1793666d093a842ac59f2
+          <folding>
+            <element signature="n#style#0;n#el-table#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-table-column#17;n#el-table#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/scrollTo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/ODS/DeliveryList/DeliveryList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="80" column="75" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="75" />
+          <folding>
+            <element signature="n#style#0;n#el-table#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/errorLog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#177#222#0" expanded="true" />
+            <element signature="e#267#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/trade.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/user.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/views/tradingPlatform/orderList/List.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding>
+            <element signature="n#el-form#0;n#el-dialog#0;n#el-container#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/API.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/role.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/openWindow.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/i18n.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/api/goods.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/node_modules/eslint-friendly-formatter/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/src/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/sit.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smp-b2b-cms/internal/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
